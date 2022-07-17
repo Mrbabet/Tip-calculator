@@ -53,6 +53,7 @@ body {
 }
 ::placeholder {
   color: white !important;
+  padding-left: 1em;
 }
 input[placeholder],
 [placeholder],
